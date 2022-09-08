@@ -5,3 +5,19 @@
 #Atitel{
     font-family: "Arial Black";
 }
+
+#n_header {
+    font-family: "Droid Sans";
+    background-color: palegreen;
+    background-size: cover;
+    display: flex;
+    justify-content: center;
+}
+
+#n_ul {
+    font-family: "SansSerif";
+
+    display: flex;
+    justify-content: space-evenly;
+}
+
